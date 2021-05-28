@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622245668 source:c:\users\micro\desktop\algoritimos\mindgames\main.cpp
+	<iostream>
+	<time.h>
+
